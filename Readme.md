@@ -1,5 +1,6 @@
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 2rem;">
-  <h1 style="font-size: 1.5rem; margin-bottom: 1rem;">Project Readme</h1>
+  <h1 style="font-size: 1.5rem; margin-bottom: 1rem;">NODE-FARM</h1>
+  <img src="./images/MainPage.png" alt="mainpage">
 
   <p style="line-height: 1.5;">This is a project that demonstrates a simple server-side application using Node.js and HTTP. The application reads data from a JSON file, generates HTML templates, and serves them to the client based on the requested URL.</p>
 
